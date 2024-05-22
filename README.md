@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamzehaboamer12.
-- 👀 I’m Front End Developer.
-- 🌱 I’m currently learning more about React and more technology in Front End part.
+- 👀 I’m Manual QA tester.
+- 🌱 I’m currently learning more about Automation Testing.
 - 📫 How to reach me : My Linkedln Profile :www.linkedin.com/in/hamzeh-abu-amer-424096217
 
 <!---
